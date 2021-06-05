@@ -88,6 +88,9 @@
 
 ---
 Author: @KishanGupta114
+
 Code of Conduct: @codezila-org
-Visit Us: https://codezila.org
+
+Visit Us: [codezila.org]https://codezila.org
+
 ---
