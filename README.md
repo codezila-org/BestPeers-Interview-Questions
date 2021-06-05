@@ -87,7 +87,8 @@
 9. How you rate your skills out of 10?
 
 ---
-- Author: @KishanGupta114
-- Code of Conduct: @codezila-org
-- Visit Us: [codezila.org](https://codezila.org)
+ Author: @KishanGupta114
+ Code of Conduct: @codezila-org
+ Visit Us: [codezila.org](https://codezila.org)
+ 
 ---
